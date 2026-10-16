@@ -15,7 +15,7 @@ nav { display: flex; justify-content: space-between; align-items: center; paddin
 
 .hero-contenu { flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 20px; }
 .logo-cadre { width: 340px; height: 340px; border-radius: 50%; overflow: hidden; background: #fff6d8; border: 6px solid var(--or); box-shadow: 0 10px 30px rgba(0,0,0,0.35); margin-bottom: 20px; display: flex; align-items: center; justify-content: center; }
-.logo-cadre img { width: 98%; max-width: none; height: auto; mix-blend-mode: multiply; }
+.logo-cadre img { width: 72%; max-width: none; height: auto; mix-blend-mode: multiply; }
 .hero-contenu h1 { font-size: 42px; margin-bottom: 10px; text-shadow: 0 4px 15px rgba(0,0,0,0.4); }
 .sous-titre { font-size: 18px; color: var(--or); margin-bottom: 10px; }
 .devise { display: inline-block; max-width: 92%; background: #fff6d8; color: #d62d1a; font-size: 14px; letter-spacing: 2px; font-weight: bold; padding: 7px 20px; border-radius: 30px; margin-bottom: 18px; }
